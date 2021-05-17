@@ -12,6 +12,8 @@ Hi, I'm Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am 
 
 My research interests span the areas of programming language and machine learning. I am interested in building the tools and techniques which help the interpretability and efficiency of program learning. 
 
+Last Update: June 2020
+
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
 <script type="text/javascript">
