@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). Before that, I did my undergraduate at Fudan University, advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I visited Peking University as a research assistant, supervised by [Prof. Chenren Xu](http://soar.group/chenren/). 
+Hi, I'm Chenxi Yang, a Ph.D. student in the Trishul group at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). My research interests span the areas of programming language and machine learning. I am interested in building the tools and techniques which help the interpretability and efficiency of program learning. 
 
-My research interests span the areas of programming language and machine learning. I am interested in building the tools and techniques which help the interpretability and efficiency of program learning. 
+Prior to graduate school, I did my undergraduate at Fudan University, advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I visited Peking University as a research assistant, supervised by [Prof. Chenren Xu](http://soar.group/chenren/). 
 
-Last Update: June 2020
+My probably out-of-data CV is available [here](https://cxyang1997.github.io/files/CV_ChenxiYang.pdf).
+
+Last Update: Jan 2021
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
