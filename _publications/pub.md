@@ -3,7 +3,6 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-===
 <b>Scheduling DNNs on Edge Servers.</b> <br>
 Jian He* , <b>Chenxi Yang</b>* , Zhaoyuan He, Ghufran Baig, Lili Qiu. <br>
 In Submission (* indicates co-primary authors)<br>
