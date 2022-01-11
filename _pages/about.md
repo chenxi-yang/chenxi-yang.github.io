@@ -15,7 +15,7 @@ My CV is available [here](https://cxyang1997.github.io/files/CV_ChenxiYang.pdf).
 
 I like hiking, playing badminton, swimming and board games.
 
-Last Update: Oct 2021
+Last Update: Jan 2022
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
