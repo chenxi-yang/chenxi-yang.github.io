@@ -5,7 +5,7 @@ permalink: /publication/publications
 ---
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
- In Submission to ICLR (Current Score: 6/8/6)<br>
+In Submission to ICLR (Current Score: 6/8/6)<br> [[Preprint]](https://cxyang1997.github.io/files/ICLR2022-submission[DSE].pdf)<br>
 <br>
 <b>Scheduling DNNs on Edge Servers.</b> <br>
 Jian He* , <b>Chenxi Yang</b>* , Zhaoyuan He, Ghufran Baig, Lili Qiu. <br>
