@@ -9,7 +9,7 @@ In Submission to ICLR (Current Score: 6/8/6)<br> [[Preprint]](https://cxyang1997
 <br>
 <b>Scheduling DNNs on Edge Servers.</b> <br>
 Jian He* , <b>Chenxi Yang</b>* , Zhaoyuan He, Ghufran Baig, Lili Qiu. <br>
-In Submission to MLSys<br>
+In Submission<br>
 <br>
 <b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs.</b> <br>
 Shuang Jiang, Dong He, <b>Chenxi Yang</b>, Chenren Xu, Guojie Luo, Yang Chen, Yunlu Liu, Jiangwei Jiang. <br> 
