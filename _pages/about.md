@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenxi Yang, a Ph.D. student in the Trishul group at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). My research interests span the areas of programming language, formal methods and machine learning. I am interested in building the tools and techniques which help the interpretability and efficiency of program learning. 
+Hi, I'm Chenxi Yang, a Ph.D. student in the Trishul group at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). My research interests span the areas of programming language, formal methods and machine learning. Specifically, I am working on projects related to safe learning and neurosymbolic programming.
 
-Prior to graduate school, I did my undergraduate at Fudan University, advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I visited Peking University as a research assistant, supervised by [Prof. Chenren Xu](http://soar.group/chenren/). 
+Prior to joining the Trishul Group, I spent one year working with [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/). Before that, I did my undergraduate at Fudan University, advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I visited Peking University as a research assistant, supervised by [Prof. Chenren Xu](http://soar.group/chenren/). 
 My CV is available [here](https://cxyang1997.github.io/files/CV_ChenxiYang.pdf).
 
 I like hiking, playing badminton, swimming and board games.
 
-Last Update: Mar 2022
+Last Update: Jun 2022
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
