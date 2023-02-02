@@ -3,6 +3,10 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
+<b>Policy Optimization with Robustness Certificates.</b> <br>
+<b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
+[[Arxiv]](https://arxiv.org/abs/2301.11374) <br>
+<br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
 ICLR 2022 <br> [[Paper]](https://arxiv.org/abs/2203.07671) [[Code]](https://github.com/chenxi-yang/DSE) [[Slides]](https://chenxi-yang.github.io/files/DSE_short.pdf)<br>
