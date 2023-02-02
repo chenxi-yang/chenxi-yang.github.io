@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenxi Yang, a Ph.D. student in the Trishul group at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). My research interests span the areas of formal methods and machine learning. I am working on projects related to provably safe learning, trustworthy AI, and neurosymbolic learning.
+Hi, I'm Chenxi Yang, a Ph.D. student in the Trishul group at the University of Texas at Austin. I am fortunate to be advised by [Prof. Swarat Chaudhuri](http://www.cs.utexas.edu/~swarat/). My research interests span the areas of formal methods and machine learning. I am working on provably safe learning, trustworthy AI, and neurosymbolic learning.
 
 Prior to joining the Trishul Group, I spent one year working with [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/). Before that, I did my undergraduate at Fudan University, advised by [Prof. Yang Chen](https://chenyang03.wordpress.com/). I visited Peking University as a research assistant, supervised by [Prof. Chenren Xu](http://soar.group/chenren/). 
 
