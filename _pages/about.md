@@ -14,7 +14,7 @@ Prior to joining the Trishul Group, I spent one year working with [Prof. Lili Qi
 
 <!-- My CV is available [here](https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf). -->
 
-I like hiking, playing badminton, swimming and playing the piano.
+I like hiking, swimming, and playing the piano.
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
