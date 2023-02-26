@@ -9,7 +9,9 @@ permalink: /publication/publications
 <br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
-ICLR 2022 <br> [[Paper]](https://arxiv.org/abs/2203.07671) [[Code]](https://github.com/chenxi-yang/DSE) [[Slides]](https://chenxi-yang.github.io/files/DSE_short.pdf)<br>
+ICLR 2022 <br> 
+AIPLANS (Advances in Programming Languages and Neurosymbolic Systems) Workshop in Neurips 2021 <br>
+[[Paper]](https://arxiv.org/abs/2203.07671) [[Code]](https://github.com/chenxi-yang/DSE) [[Slides]](https://chenxi-yang.github.io/files/DSE_short.pdf)<br>
 <br>
 <b>Scheduling DNNs on Edge Servers.</b> <br>
 Jian He* , <b>Chenxi Yang</b>* , Zhaoyuan He, Ghufran Baig, Lili Qiu. <br>
