@@ -9,7 +9,7 @@ permalink: /publication/publications
 <br>
 <b>Improved modeling of RNA-binding protein motifs in an interpretable neural model of RNA splicing.</b><br>
 Kavi Gupta, <b>Chenxi Yang</b>, Kayla McCue, Osbert Bastani, Phillip A. Sharp, Christopher Burge, Armando Solar-Lezama <br>
-Spotlight, ICML 2023 Workshop on Computational Biology <br>
+Spotlight, Computational Biology Workshop in ICML 2023<br>
 <br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
