@@ -16,7 +16,7 @@ Before that, I did my undergraduate at Fudan University, advised by <a href="htt
 
 <!-- My CV is available [here](https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf). -->
 
-I like hiking, swimming, and playing the piano.
+Life: 🏊, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>, 🎿, <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>, <a href="https://chenxi-yang.github.io/images/badminton.jpg" style="text-decoration: none">🏸️</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg" style="text-decoration: none">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg" style="text-decoration: none">🤿</a>.
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
