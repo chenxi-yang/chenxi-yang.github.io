@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Chenxi Yang, a Ph.D. student in the Trishul group at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. My research interests span the areas of formal methods and machine learning. I am working on AI for systems, trustworthy AI, and neurosymbolic learning.
 
-I'm a summer intern Google (2023), working with Elliot Li, Martin Maas, and Mustafa Uysal. Prior to joining the Trishul Group, I spent one year working with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>. 
+I'm a summer intern at Google (2023), working with Elliot Li, Martin Maas, and Mustafa Uysal. Prior to joining the Trishul Group, I spent one year working with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>. 
    <!-- [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/).  -->
 Before that, I did my undergraduate at Fudan University, advised by <a href="https://chenyang03.wordpress.com/" style="text-decoration: none">Prof. Yang Chen</a>. I visited Peking University as a research assistant, supervised by <a href="http://soar.group/chenren/" style="text-decoration: none">Prof. Chenren Xu</a>.
 
