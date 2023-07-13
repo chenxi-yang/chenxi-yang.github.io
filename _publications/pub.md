@@ -18,7 +18,7 @@ AIPLANS (Advances in Programming Languages and Neurosymbolic Systems) Workshop i
 [[Paper]](https://arxiv.org/abs/2203.07671) [[Code]](https://github.com/chenxi-yang/DSE) [[Slides]](https://chenxi-yang.github.io/files/DSE_short.pdf)<br>
 <br>
 <b>Adaptive Scheduling for Edge-Assisted DNN Serving.</b> <br>
-Jian He , <b>Chenxi Yang</b> , Zhaoyuan He, Ghufran Baig, Lili Qiu <br>
+Jian He, <b>Chenxi Yang</b>, Zhaoyuan He, Ghufran Baig, Lili Qiu <br>
 MASS 2023 <br>
 <br>
 <b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs.</b> <br>
