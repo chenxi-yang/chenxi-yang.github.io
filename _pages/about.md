@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. My research interests span the areas of formal methods and machine learning. I am working on AI for systems, trustworthy AI, and neurosymbolic learning.
+Hi, I'm Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. My research interests span the areas of formal methods and machine learning. I am working on formal methods, AI for systems, trustworthy AI, and neurosymbolic learning.
 
 I'm a summer intern at Google (2023), working with <a href="http://alumni.soe.ucsc.edu/~yanli/" style="text-decoration: none">Elliot Li</a>, <a href="http://martin-maas.com" style="text-decoration: none">Martin Maas</a>, and Mustafa Uysal. During my graduate school, I spent one year working with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>. 
    <!-- [Prof. Lili Qiu](https://www.cs.utexas.edu/~lili/).  -->
