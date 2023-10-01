@@ -3,7 +3,7 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-<b>Policy Optimization with Robustness Certificates.</b> <br>
+<b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation.</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
 [[Arxiv]](https://arxiv.org/abs/2301.11374) <br>
 <br>
