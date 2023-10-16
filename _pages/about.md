@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. My research interests span the areas of automated reasoning and machine learning. I am working on machine learning systems, formal verification, safe AI, and neurosymbolic learning.
+Hi, I am Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. Prior to that, I received a B.E. in Computer Science from Fudan University in 2019. My research interests span the areas of formal methods (Automated Reasoning, Program Analysis, Formal Verification) and machine learning (Foundation Model, Machine Learning Systems, Safe AI).
 
-I am now a student researcher at Google, working with <a href="http://alumni.soe.ucsc.edu/~yanli/" style="text-decoration: none">Elliot Li</a>, <a href="http://martin-maas.com" style="text-decoration: none">Martin Maas</a>, and Mustafa Uysal. During my graduate school, I spent one year working with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>. Before that, I did my undergraduate at Fudan University, advised by <a href="https://chenyang03.wordpress.com/" style="text-decoration: none">Prof. Yang Chen</a>. I visited Peking University as a research assistant, supervised by <a href="http://soar.group/chenren/" style="text-decoration: none">Prof. Chenren Xu</a>.
+I am now a student researcher at Google, working on machine learning for storage systems with <a href="http://alumni.soe.ucsc.edu/~yanli/" style="text-decoration: none">Elliot Li</a>, <a href="http://martin-maas.com" style="text-decoration: none">Martin Maas</a>, and Mustafa Uysal. During my graduate school, I spent one year with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>, working on video streaming optimization. Before that, I was a summer analyst at Goldman Sachs, working on high frequency trading protocal verification; a researcher assistant at Fudan University, advised by <a href="https://chenyang03.wordpress.com/" style="text-decoration: none">Prof. Yang Chen</a>; and a research assistant in Peking University, supervised by <a href="http://soar.group/chenren/" style="text-decoration: none">Prof. Chenren Xu</a>.
 
-My CV is available [here](https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf).
+My CV is available [here](https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf). I am looking for a summer internship in 2024. Please feel free to reach out to me if you are interested in my research.
 
-Life: 🏊, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>, 🎿, <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>, <a href="https://chenxi-yang.github.io/images/badminton.jpg" style="text-decoration: none">🏸️</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg" style="text-decoration: none">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg" style="text-decoration: none">🤿</a>.
+Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>...
 
-I am looking for a summer internship in 2024. Please feel free to reach out to me if you are interested in my research.
+
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
