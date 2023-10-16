@@ -12,7 +12,7 @@ Hi, I am Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am
 
 I am now a student researcher at Google, working on machine learning for storage systems with <a href="http://alumni.soe.ucsc.edu/~yanli/" style="text-decoration: none">Elliot Li</a>, <a href="http://martin-maas.com" style="text-decoration: none">Martin Maas</a>, and Mustafa Uysal. During my graduate school, I spent one year with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>, working on video streaming optimization. Before that, I was a summer analyst at Goldman Sachs, working on high frequency trading protocal verification; a researcher assistant at Fudan University, advised by <a href="https://chenyang03.wordpress.com/" style="text-decoration: none">Prof. Yang Chen</a>; and a research assistant in Peking University, supervised by <a href="http://soar.group/chenren/" style="text-decoration: none">Prof. Chenren Xu</a>.
 
-My CV is available [here](https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf). I am looking for a summer internship in 2024. Please feel free to reach out to me if you are interested in my research.
+My CV is available [here](https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf).
 
 Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>...
 
