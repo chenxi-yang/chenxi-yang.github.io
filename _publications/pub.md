@@ -5,7 +5,7 @@ permalink: /publication/publications
 ---
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation.</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
-In Submission. [[Arxiv]](https://arxiv.org/abs/2301.11374) <br>
+In Submission. <a href="https://arxiv.org/abs/2301.11374" style="text-decoration: none">[Arxiv]</a><br> 
 <br>
 <b>On a Foundation Model for Operating Systems.</b> <br>
 Divyangshu Saxena, Nihal Sharma, Donghyun Kim, Rohit Dwivedula, Jiayi Chen, <b>Chenxi Yang</b>,
@@ -15,14 +15,14 @@ In Submission.<br>
 <br>
 <b>Improved Modeling of RNA-binding Protein Motifs in An Interpretable Neural Model of RNA Splicing.</b><br>
 Kavi Gupta, <b>Chenxi Yang</b>, Kayla McCue, Osbert Bastani, Phillip A. Sharp, Christopher Burge, Armando Solar-Lezama <br>
-In Submission. [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2023.08.20.553608v1) <br>
+In Submission. <a href="https://www.biorxiv.org/content/10.1101/2023.08.20.553608v1" style="text-decoration: none">[bioRxiv]</a> <br>
 Computational Biology Workshop in ICML (<span style="color:red">Spotlight</span>) 2023<br>
 <br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
 ICLR 2022.<br> 
 AIPLANS (Advances in Programming Languages and Neurosymbolic Systems) Workshop in Neurips 2021 <br>
-[[Paper]](https://arxiv.org/abs/2203.07671) [[Code]](https://github.com/chenxi-yang/DSE) [[Slides]](https://chenxi-yang.github.io/files/DSE_short.pdf)<br>
+<a href="https://arxiv.org/abs/2203.07671" style="text-decoration: none">[Paper]</a> <a href="https://github.com/chenxi-yang/DSE" style="text-decoration: none">[Code]</a> <a href="https://chenxi-yang.github.io/files/DSE_short.pdf" style="text-decoration: none">[Slides]</a><br>
 <br>
 <b>Adaptive Scheduling for Edge-Assisted DNN Serving.</b> <br>
 Jian He, <b>Chenxi Yang</b>, Zhaoyuan He, Ghufran Baig, Lili Qiu <br>
@@ -30,12 +30,15 @@ MASS 2023.<br>
 <br>
 <b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs.</b> <br>
 Shuang Jiang, Dong He, <b>Chenxi Yang</b>, Chenren Xu, Guojie Luo, Yang Chen, Yunlu Liu, Jiangwei Jiang <br> 
-INFOCOM 2018.<br> [[Paper]](https://chenxi-yang.github.io/files/edgefpga-infocom181.pdf)<br>
+INFOCOM 2018.<br>
+<a href="https://chenxi-yang.github.io/files/edgefpga-infocom181.pdf" style="text-decoration: none">[Paper]</a><br>
 <br>
 <b>Understanding the Behavioral Differences Between American and German Users: A Data-Driven Study.</b> <br>
 <b>Chenxi Yang</b>, Yang Chen, Qingyuan Gong, Xinlei He, Yu Xiao, Yuhuan Huang, Xiaoming Fu <br> 
-Big Data Mining and Analytics 2018.<br> [[Paper]](https://chenxi-yang.github.io/files/yelp-behavior-differences.pdf)<br> 
+Big Data Mining and Analytics 2018.<br>
+<a href="https://chenxi-yang.github.io/files/yelp-behavior-differences.pdf" style="text-decoration: none">[Paper]</a><br> 
 <br>
 <b>Sensing People’s Time Management Activities: A Study Using Wearable Devices.</b> 
 <br> <b>Chenxi Yang</b>, Yang Chen, Yuan Xuan
-<br> SenSys 2018.<br> [[Paper]](https://chenxi-yang.github.io/files/sensys18-smartphone-activities.pdf)
+<br> SenSys 2018.<br>
+<a href="https://chenxi-yang.github.io/files/sensys18-smartphone-activities.pdf" style="text-decoration: none">[Paper]</a>
