@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chenxi Yang"
+title                    : "Home"
 title_separator          : ""
 name                     : &name "Chenxi Yang"
 description              : &description "personal description"
