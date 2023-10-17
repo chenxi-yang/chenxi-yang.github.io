@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. Prior to that, I received a B.S. in Computer Science from Fudan University in 2019. My research interests span the areas of formal methods (Automated Reasoning, Program Analysis, Formal Verification) and machine learning (Foundation Model, Machine Learning Systems, Safe AI).
+Hi, I am Chenxi Yang, a Ph.D. student at the University of Texas at Austin. I am fortunate to be advised by <a href="http://www.cs.utexas.edu/~swarat/" style="text-decoration: none">Prof. Swarat Chaudhuri</a>. Prior to that, I received a B.S. in Computer Science from Fudan University in 2019. 
+
+My research interests span the areas of formal methods (Automated Reasoning, Program Analysis, Formal Verification) and machine learning (Foundation Model, Machine Learning Systems, Safe AI).
 
 I am now a student researcher at Google, working on machine learning for storage systems with <a href="http://alumni.soe.ucsc.edu/~yanli/" style="text-decoration: none">Elliot Li</a>, <a href="http://martin-maas.com" style="text-decoration: none">Martin Maas</a>, and Mustafa Uysal. During my graduate school, I spent one year with <a href="https://www.cs.utexas.edu/~lili/" style="text-decoration: none">Prof. Lili Qiu</a>, working on video streaming optimization. Before that, I was a summer analyst at Goldman Sachs, working on high frequency trading protocal verification; a researcher assistant at Fudan University, advised by <a href="https://chenyang03.wordpress.com/" style="text-decoration: none">Prof. Yang Chen</a>; and a research assistant in Peking University, supervised by <a href="http://soar.group/chenren/" style="text-decoration: none">Prof. Chenren Xu</a>.
 
