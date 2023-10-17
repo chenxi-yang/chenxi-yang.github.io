@@ -5,7 +5,8 @@ permalink: /publication/publications
 ---
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation.</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
-In Submission. <a href="https://arxiv.org/abs/2301.11374" style="text-decoration: none">[Arxiv]</a><br> 
+In Submission.<br>
+<a href="https://arxiv.org/abs/2301.11374" style="text-decoration: none">[Arxiv]</a><br> 
 <br>
 <b>On a Foundation Model for Operating Systems.</b> <br>
 Divyangshu Saxena, Nihal Sharma, Donghyun Kim, Rohit Dwivedula, Jiayi Chen, <b>Chenxi Yang</b>,
@@ -15,8 +16,9 @@ In Submission.<br>
 <br>
 <b>Improved Modeling of RNA-binding Protein Motifs in An Interpretable Neural Model of RNA Splicing.</b><br>
 Kavi Gupta, <b>Chenxi Yang</b>, Kayla McCue, Osbert Bastani, Phillip A. Sharp, Christopher Burge, Armando Solar-Lezama <br>
-In Submission. <a href="https://www.biorxiv.org/content/10.1101/2023.08.20.553608v1" style="text-decoration: none">[bioRxiv]</a> <br>
+In Submission. <br>
 Computational Biology Workshop in ICML (<span style="color:red">Spotlight</span>) 2023<br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.08.20.553608v1" style="text-decoration: none">[bioRxiv]</a> <br>
 <br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
