@@ -37,4 +37,4 @@ Big Data Mining and Analytics 2018 <a href="https://chenxi-yang.github.io/files/
 <br>
 <b>Sensing People’s Time Management Activities: A Study Using Wearable Devices.</b> 
 <br> <b>Chenxi Yang</b>, Yang Chen, Yuan Xuan
-<br> SenSys 2018 <a href="https://chenxi-yang.github.io/files/sensys18-smartphone-activities.pdf">Paper</a> <br>
+<br> Conference on Embedded Networked Sensor Systems 2018 (SenSys 2018) <a href="https://chenxi-yang.github.io/files/sensys18-smartphone-activities.pdf">Paper</a> <br>
