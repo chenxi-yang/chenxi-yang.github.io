@@ -17,7 +17,7 @@ I am also a student researcher at <font style="color:#4285F4">G</font><font styl
 My CV is available <a href="https://chenxi-yang.github.io/files/CV_ChenxiYang.pdf">here</a>.
 <!-- I am looking for a summer internship in 2024. Please feel free to reach out to me if you are interested in my research. -->
 
-Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg">🧗</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg">🤿</a>.
+Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg" style="text-decoration: none">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg" style="text-decoration: none">🤿</a>.
 
 
 
