@@ -11,7 +11,7 @@ In Submission <a href="https://arxiv.org/abs/2301.11374">Arxiv</a><br>
 Divyangshu Saxena, Nihal Sharma, Donghyun Kim, Rohit Dwivedula, Jiayi Chen, <b>Chenxi Yang</b>,
 Sriram Ravula, Zichao Hu, Aditya Akella, Joydeep Biswas, Swarat Chaudhuri, Isil Dillig, Alex
 Dimakis, Daehyeok Kim, Christopher Rossbach <br>
-In Submission<br>
+ML for Systems at Neural Information Processing Systems 2023 (MlSys@Neurips 2023) <br>
 <br>
 <b>Improved Modeling of RNA-binding Protein Motifs in An Interpretable Neural Model of RNA Splicing.</b><br>
 Kavi Gupta, <b>Chenxi Yang</b>, Kayla McCue, Osbert Bastani, Phillip A. Sharp, Christopher Burge, Armando Solar-Lezama <br>
@@ -20,7 +20,7 @@ In Submission <a href="https://www.biorxiv.org/content/10.1101/2023.08.20.553608
 <br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
-Advances in Programming Languages and Neurosymbolic Systems Workshop in Neural Information Processing Systems 2021 (AIPLANS@Neurips 2022) <br>
+Advances in Programming Languages and Neurosymbolic Systems Workshop in Neural Information Processing Systems 2021 (AIPLANS@Neurips 2021) <br>
 International Conference on Learning Representations 2022 (ICLR 2022) <a href="https://arxiv.org/abs/2203.07671">Paper</a> | <a href="https://github.com/chenxi-yang/DSE">Code</a> | <a href="https://chenxi-yang.github.io/files/DSE_short.pdf">Slides</a><br>
 <br>
 <b>Adaptive Scheduling for Edge-Assisted DNN Serving.</b> <br>
