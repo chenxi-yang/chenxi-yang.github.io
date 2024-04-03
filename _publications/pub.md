@@ -8,13 +8,13 @@ permalink: /publication/publications
 In submission <br>
 <br>
 <b>Temporal Logic Constrained Policy Optimization with Cycle Experience Replay.</b> <br>
-Ameesh Shah*, Cameron Voloshin*, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, Sanjit A.
+Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, Sanjit A.
 Seshia <br>
 In submission <br>
 <br>
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation.</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
-2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) <a href="https://arxiv.org/abs/2301.11374">Paper</a> | <a href="https://github.com/chenxi-yang/carol">Code</a> |<br>
+2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) <a href="https://arxiv.org/abs/2301.11374">Paper</a> | <a href="https://github.com/chenxi-yang/carol">Code</a> <br>
 <br>
 <b>On a Foundation Model for Operating Systems.</b> <br>
 Divyangshu Saxena, Nihal Sharma, Donghyun Kim, Rohit Dwivedula, Jiayi Chen, <b>Chenxi Yang</b>,
