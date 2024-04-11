@@ -25,7 +25,7 @@ ML for Systems at Neural Information Processing Systems 2023 (MlSys@Neurips 2023
 <b>Improved Modeling of RNA-binding Protein Motifs in An Interpretable Neural Model of RNA Splicing.</b><br>
 Kavi Gupta, <b>Chenxi Yang</b>, Kayla McCue, Osbert Bastani, Phillip A. Sharp, Christopher Burge, Armando Solar-Lezama <br>
 Computational Biology Workshop in International Conference on Machine Learning 2023 (CompBio@ICML 2023) (<span style="color:red">Spotlight</span>) <br>
-Genome Biology <a href="https://www.biorxiv.org/content/10.1101/2023.08.20.553608v1">bioRxiv</a> <br>
+Genome Biology 25 (1), 23 <a href="https://link.springer.com/article/10.1186/s13059-023-03162-x">Paper</a> <br>
 <br>
 <b>Safe Neurosymbolic Learning with Differentiable Symbolic Execution.</b> <br>
 <b>Chenxi Yang</b>, Swarat Chaudhuri <br>
