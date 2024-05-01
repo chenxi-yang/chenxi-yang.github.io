@@ -14,7 +14,7 @@ In submission <br>
 <br>
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation.</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
-2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) <a href="https://arxiv.org/abs/2301.11374">Paper</a> | <a href="https://github.com/chenxi-yang/carol">Code</a> | <a href="https://chenxi-yang.github.io/files/carol.pdf">Slides</a><br>
+2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) <a href="https://arxiv.org/abs/2301.11374">Paper</a> | <a href="https://github.com/chenxi-yang/carol">Code</a> | <a href="https://chenxi-yang.github.io/files/carol.pdf">Slides</a> ｜ <a href="https://www.youtube.com/watch?v=rTi1cJSJOe8">Video</a><br>
 <br>
 <b>On a Foundation Model for Operating Systems.</b> <br>
 Divyangshu Saxena, Nihal Sharma, Donghyun Kim, Rohit Dwivedula, Jiayi Chen, <b>Chenxi Yang</b>,
