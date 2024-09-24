@@ -3,7 +3,7 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-<b>C3: Learning Congestion Controllers with Formal Certificates.</b> <br>
+<b>Certified Learning for Congestion Control</b> <br>
 <b>Chenxi Yang</b>, Divyanshu Saxena, Rohit Dwivedula, Kshiteej Mahajan, Swarat Chaudhuri, Aditya Akella <br>
 In submission <a href="https://chenxi-yang.github.io/files/c3.pdf">Preprint</a> <br>
 <br>
