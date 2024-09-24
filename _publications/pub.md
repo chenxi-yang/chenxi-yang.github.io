@@ -6,7 +6,7 @@ permalink: /publication/publications
 <b>Certified Learning for Congestion Control</b> <br>
 Under Review. Draft available upon request. <br>
 <br>
-<b>A Practical Cross-Layer Approach for ML-DrivenStorage Placement in Warehouse-Scale Computers.</b> <br>
+<b>A Practical Cross-Layer Approach for ML-Driven Storage Placement in Warehouse-Scale Computers.</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
 In submission <a href="https://chenxi-yang.github.io/files/smart-data-placement.pdf">Preprint</a> <br>
 <br>
