@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/publications
 ---
 <b>Certified Learning for Congestion Control</b> <br>
-<b>Chenxi Yang</b>, Divyanshu Saxena, Rohit Dwivedula, Kshiteej Mahajan, Swarat Chaudhuri, Aditya Akella <br>
-In submission <a href="https://chenxi-yang.github.io/files/c3.pdf">Preprint</a> <br>
+Under Review. Draft available upon request. 
 <br>
 <b>A Practical Cross-Layer Approach for ML-DrivenStorage Placement in Warehouse-Scale Computers.</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
