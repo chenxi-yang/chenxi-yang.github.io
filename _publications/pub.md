@@ -3,9 +3,13 @@ title: ""
 collection: publications
 permalink: /publication/publications
 ---
-<b>A Practical Approach for ML-Driven Data Placement in Cloud Data Centers.</b> <br>
+<b>C3: Learning Congestion Controllers with Formal Certificates.</b> <br>
+<b>Chenxi Yang</b>, Divyanshu Saxena, Rohit Dwivedula, Kshiteej Mahajan, Swarat Chaudhuri, Aditya Akella <br>
+In submission <a href="https://chenxi-yang.github.io/files/c3.pdf">Preprint</a> <br>
+<br>
+<b>A Practical Cross-Layer Approach for ML-DrivenStorage Placement in Warehouse-Scale Computers.</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
-In submission <br>
+In submission <a href="https://chenxi-yang.github.io/files/smart-data-placement.pdf">Preprint</a> <br>
 <br>
 <b>Temporal Logic Constrained Policy Optimization with Cycle Experience Replay.</b> <br>
 Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, Sanjit A.
