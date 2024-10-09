@@ -4,16 +4,16 @@ collection: publications
 permalink: /publication/publications
 ---
 <b>Certified Learning for Congestion Control</b> <br>
-Under Review. Draft available upon request. <br>
+Under Review.<br>
 <br>
 <b>A Practical Cross-Layer Approach for ML-Driven Storage Placement in Warehouse-Scale Computers.</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
-Under Review. Draft available upon request. <br>
+Under Review.<br>
 <br>
 <b>Temporal Logic Constrained Policy Optimization with Cycle Experience Replay.</b> <br>
 Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, Sanjit A.
 Seshia <br>
-Under Review. Draft available upon request. <br>
+Under Review.<br>
 <br>
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation.</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
