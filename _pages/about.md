@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at <img src="./assets/longhorns.png" style="height: 18px; margin-bottom: 6px;"><font style="color:#bf5900">University of Texas at Austin</font>, fortunately advised by Prof. <a href="http://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a>. Prior to that, I received a B.S. in Computer Science from <img src="./assets/fudan.svg" style="height: 18px; margin-bottom: 6px;"> <font style="color:#0e419c">Fudan University</font>.
+I am a Ph.D. student at <a href="https://www.cs.utexas.edu"><img src="./assets/longhorns.png" style="height: 18px; margin-bottom: 6px;"><font style="color:#bf5900">University of Texas at Austin</font></a>, fortunately advised by Prof. <a href="http://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a>. Prior to that, I received a B.S. in Computer Science from <img src="./assets/fudan.svg" style="height: 18px; margin-bottom: 6px;"> <font style="color:#0e419c">Fudan University</font>.
 
 My research interests span the areas of AI, Systems, and Formal Methods. I have rich industrial experiences and am passionate about designing ML-based systems and AI infrastructure.
 
