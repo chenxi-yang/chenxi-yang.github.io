@@ -38,7 +38,7 @@ ICLR 2022 / <a href="https://arxiv.org/abs/2203.07671">paper</a> / <a href="http
 <br>
 <b>Adaptive Scheduling for Edge-Assisted DNN Serving</b> <br>
 Jian He, <b>Chenxi Yang</b>, Zhaoyuan He, Ghufran Baig, Lili Qiu <br>
-MASS 2023 <a href="https://arxiv.org/abs/2304.09961">Paper</a><br>
+MASS 2023 / <a href="https://arxiv.org/abs/2304.09961">paper</a><br>
 <br>
 <b>Accelerating Mobile Applications at the Network Edge with Software-Programmable FPGAs</b> <br>
 Shuang Jiang, Dong He, <b>Chenxi Yang</b>, Chenren Xu, Guojie Luo, Yang Chen, Yunlu Liu, Jiangwei Jiang <br> 
