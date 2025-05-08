@@ -17,7 +17,7 @@ Under Review<br>
 MLSys 2025 <br>
 <br>
 <b>LTL-Constrained Policy Optimization with Cycle Experience Replay</b> <br>
-Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, and Sanjit A. Seshia <br>
+Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, Sanjit A. Seshia <br>
 TMLR 2025 <br>
 <br>
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation</b> <br>
