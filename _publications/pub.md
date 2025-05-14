@@ -12,7 +12,7 @@ Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhu
 Seshia <br>
 Under Review<br>
 <br> -->
-<b>A Practical Cross-Layer Approach for ML-Driven Storage Placement in Warehouse-Scale Computers</b> <br>
+<b>A Bring-Your-Own-Model Approach for ML-Driven Storage Placement in Warehouse-Scale Computers</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
 MLSys 2025 <br>
 <br>
