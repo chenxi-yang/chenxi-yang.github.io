@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at <a href="https://www.cs.utexas.edu"><img src="./assets/longhorns.png" style="height: 18px; margin-bottom: 6px;"><font style="color:#bf5900">University of Texas at Austin</font></a>, fortunately advised by Prof. <a href="http://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a>. Prior to that, I received a B.S. in Computer Science from <a href="https://www.fudan.edu.cn/en/"><img src="./assets/fudan.svg" style="height: 18px; margin-bottom: 6px;"> <font style="color:#0e419c">Fudan University</font></a>.
+Hi, I'm Chenxi Yang, a Research Scientist at Meta MSL working on efficient inference for large language models and multimodal AI systems.
 
-My research interests span the areas of AI, Systems, and Formal Methods. I have rich industrial experiences and am passionate about designing ML-based systems and AI infrastructure.
+I received my Ph.D. in Computer Science from
+<a href="https://www.cs.utexas.edu"><img src="./assets/longhorns.png" style="height: 18px; margin-bottom: 6px;"><font style="color:#bf5900">University of Texas at Austin</font></a>, advised by Prof. <a href="http://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a>, and my B.S. from
+<a href="https://www.fudan.edu.cn/en/"><img src="./assets/fudan.svg" style="height: 18px; margin-bottom: 6px;"> <font style="color:#0e419c">Fudan University</font></a>, working with <a href="https://chenyang03.wordpress.com/">Yang Chen</a> and <a href="http://soar.group/chenren/">Chenren Xu</a>. During the first year of graduate school, I also worked with Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a> on video streaming systems for DNNs.
 
-At school, I focused on the problem of guaranteeing performance/safety of ML-based systems, where I developed theories and tools (<a href="https://arxiv.org/abs/2203.07671">DSE</a>, <a href="https://arxiv.org/abs/2301.11374">CAROL</a>) to ensure the safety and robustness of learning-based controllers and extend the theory to networked systems (C3). 
+My research centers on building efficient, reliable, and scalable AI systems. During my Ph.D., I developed theory and tools (<a href="https://arxiv.org/abs/2203.07671">DSE</a>, <a href="https://arxiv.org/abs/2301.11374">CAROL</a>, Canopy) that provide performance and robustness guarantees for ML-driven controllers. I extended this line of work to large-scale production environments through two internships at
+<font style="color:#4285F4">G</font><font style="color:#DB4437">o</font><font style="color:#F4B400">o</font><font style="color:#4285F4">g</font><font style="color:#0F9D58">l</font><font style="color:#DB4437">e</font>, working on TPU optimization (SRG) and ML-based storage optimization, working with <a href="https://techsysinfra.google/research/srg-staff/yawen-wang/">Yawen Wang</a>, <a href="http://alumni.soe.ucsc.edu/~yanli/">Elliot Li</a>, <a href="https://scholar.google.com/citations?user=KqssyAQAAAAJ&hl=en">Mustafa Uysal</a>, and <a href="http://martin-maas.com">Martin Maas</a>.
 
-During my PhD, I interned twice at <font style="color:#4285F4">G</font><font style="color:#DB4437">o</font><font style="color:#F4B400">o</font><font style="color:#4285F4">g</font><font style="color:#0F9D58">l</font><font style="color:#DB4437">e</font>. I was a PhD intern at <a href="https://techsysinfra.google/research/">System Research Group (SRG)</a>, working on optimizing TPU scheduling for AI workloads with <a href="https://techsysinfra.google/research/srg-staff/yawen-wang/">Yawen Wang</a> and <a href="http://martin-maas.com">Martin Maas</a>. Before that, I was a student researcher working on machine learning for storage systems with <a href="http://alumni.soe.ucsc.edu/~yanli/">Elliot Li</a>, <a href="http://martin-maas.com">Martin Maas</a>, and <a href="https://scholar.google.com/citations?user=KqssyAQAAAAJ&hl=en">Mustafa Uysal</a>. Before that, I was a research assistant working with Prof. <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a>, focusing on video streaming optimization; a summer analyst at <img src="./assets/gs.png" style="height: 18px; margin-bottom: 6px;"> <font style="color:#6b96c3">Goldman Sachs</font>, working on high frequency trading protocol verification; a research assistant at Fudan University, advised by Prof. <a href="https://chenyang03.wordpress.com/">Yang Chen</a>; and a research assistant in Peking University, supervised by Prof. <a href="http://soar.group/chenren/">Chenren Xu</a>.
-
-My CV is available <a href="https://chenxi-yang.github.io/files/CV_ChenxiYang_main.pdf">here</a>.
+<!-- My CV is available <a href="https://chenxi-yang.github.io/files/CV_ChenxiYang_main.pdf">here</a>. -->
 
 Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg" style="text-decoration: none">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg" style="text-decoration: none">🤿</a>.
 
-Last Update: Feb 2025.
+<!-- Last Update: Feb 2025. -->
 
 <!-- Default Statcounter code for github hompage
 https://cxyang1997.github.io/ -->
