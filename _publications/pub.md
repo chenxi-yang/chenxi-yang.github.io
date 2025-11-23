@@ -7,17 +7,18 @@ permalink: /publication/publications
 <b>Chenxi Yang</b>, Divyanshu Saxena, Rohit Dwivedula, Kshiteej Mahajan, Swarat Chaudhuri, Aditya Akella <br>
 EuroSys 2026<br>
 <br>
-<b>A Practical Cross-Layer Approach for ML-Driven Storage Placement in Warehouse-Scale Computers</b> <br>
+<b>A Bring-Your-Own-Model Approach for ML-Driven Storage Placement in Warehouse-Scale Computers</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
 MLSys 2025 <br>
 <br>
 <b>LTL-Constrained Policy Optimization with Cycle Experience Replay</b> <br>
-Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, and Sanjit A. Seshia <br>
+Ameesh Shah, Cameron Voloshin, <b>Chenxi Yang</b>, Abhinav Verma, Swarat Chaudhuri, Sanjit A. Seshia <br>
 TMLR 2025 <br>
 <br>
 <b>Certifiably Robust Reinforcement Learning through Model-Based Abstract Interpretation</b> <br>
 <b>Chenxi Yang</b>, Greg Anderson, Swarat Chaudhuri <br>
-SaTML 2024 / <a href="https://arxiv.org/abs/2301.11374">paper</a> / <a href="https://github.com/chenxi-yang/carol">code</a> / <a href="https://chenxi-yang.github.io/files/carol.pdf">slides</a> / <a href="https://www.youtube.com/watch?v=rTi1cJSJOe8">video</a><br>
+SaTML 2024 / <a href="https://arxiv.org/abs/2301.11374">paper</a> / <a href="https://github.com/chenxi-yang/carol">code</a> / <a href="https://chenxi-yang.github.io/files/carol.pdf">slides</a><br>
+ <!-- / <a href="https://www.youtube.com/watch?v=rTi1cJSJOe8">video</a><br> -->
 <br>
 <b>On a Foundation Model for Operating Systems</b> <br>
 Divyangshu Saxena, Nihal Sharma, Donghyun Kim, Rohit Dwivedula, Jiayi Chen, <b>Chenxi Yang</b>,
