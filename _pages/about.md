@@ -18,7 +18,7 @@ My research centers on building efficient, reliable, and scalable AI systems. Du
 
 <!-- My CV is available <a href="https://chenxi-yang.github.io/files/CV_ChenxiYang_main.pdf">here</a>. -->
 
-Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg" style="text-decoration: none">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg" style="text-decoration: none">🤿</a>.
+<!-- Life: 🏊! <a href="https://chenxi-yang.github.io/images/poker.png" style="text-decoration: none">♣️</a>! 🎿, <a href="https://chenxi-yang.github.io/images/hiking.jpg" style="text-decoration: none">🧗</a>, <a href="https://chenxi-yang.github.io/images/surfing.jpg" style="text-decoration: none">🏄</a>, <a href="https://chenxi-yang.github.io/images/snorkeling.jpg" style="text-decoration: none">🤿</a>. -->
 
 <!-- Last Update: Feb 2025. -->
 
