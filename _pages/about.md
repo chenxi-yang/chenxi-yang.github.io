@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Chenxi Yang, a research scientist at Meta MSL working on efficient inference for large language models and multimodal AI systems.
+Hi, I'm Chenxi Yang, a research scientist at Meta MSL, building efficient inference systems for large-scale and multimodal foundation models.
 
-I received my Ph.D. in Computer Science from
-<a href="https://www.cs.utexas.edu"><img src="./assets/longhorns.png" style="height: 18px; margin-bottom: 6px;"><font style="color:#bf5900">University of Texas at Austin</font></a>, advised by <a href="http://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a>, and my B.S. from
+I received my Ph.D. in Computer Science from <a href="https://www.cs.utexas.edu"><img src="./assets/longhorns.png" style="height: 18px; margin-bottom: 6px;"><font style="color:#bf5900">University of Texas at Austin</font></a>, advised by <a href="http://www.cs.utexas.edu/~swarat/">Swarat Chaudhuri</a>, and my B.S. from
 <a href="https://www.fudan.edu.cn/en/"><img src="./assets/fudan.svg" style="height: 18px; margin-bottom: 6px;"> <font style="color:#0e419c">Fudan University</font></a>, working with <a href="https://chenyang03.wordpress.com/">Yang Chen</a> and <a href="http://soar.group/chenren/">Chenren Xu</a>. During the first year of my graduate studies, I also worked with <a href="https://www.cs.utexas.edu/~lili/">Lili Qiu</a> on video streaming systems for DNNs.
 
 My research centers on building efficient, reliable, and scalable AI systems. During my Ph.D., I developed theory and tools (<a href="https://arxiv.org/abs/2203.07671">DSE</a>, <a href="https://arxiv.org/abs/2301.11374">CAROL</a>, Canopy) that provide performance and robustness guarantees for ML-driven controllers. I extended this line of work to large-scale production environments through two internships at <font style="color:#4285F4">G</font><font style="color:#DB4437">o</font><font style="color:#F4B400">o</font><font style="color:#4285F4">g</font><font style="color:#0F9D58">l</font><font style="color:#DB4437">e</font>, working on TPU optimization (SRG) and ML-based storage optimization, working with <a href="https://techsysinfra.google/research/srg-staff/yawen-wang/">Yawen Wang</a>, <a href="http://alumni.soe.ucsc.edu/~yanli/">Elliot Li</a>, <a href="https://scholar.google.com/citations?user=KqssyAQAAAAJ&hl=en">Mustafa Uysal</a>, and <a href="http://martin-maas.com">Martin Maas</a>.
