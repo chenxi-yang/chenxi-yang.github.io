@@ -7,6 +7,10 @@ permalink: /publication/publications
 <b>Chenxi Yang</b>, Divyanshu Saxena, Rohit Dwivedula, Kshiteej Mahajan, Swarat Chaudhuri, Aditya Akella <br>
 EuroSys 2026<br>
 <br>
+<b>Learning-directed Systems with Safety and Robustness Certificates</b> <br>
+<b>Chenxi yang</b>
+PhD Thesis / <a href="https://repositories.lib.utexas.edu/server/api/core/bitstreams/41fc20b9-b07e-4780-a185-ebf2fdc11d7f/content">pdf</a><br>
+<br>
 <b>A Bring-Your-Own-Model Approach for ML-Driven Storage Placement in Warehouse-Scale Computers</b> <br>
 <b>Chenxi Yang</b>, Yan Li, Martin Maas, Mustafa Uysal, Ubaid Ullah Hafeez, Arif Merchant, Richard McDougall <br>
 MLSys 2025 <br>
